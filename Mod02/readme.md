@@ -20,4 +20,4 @@
 
 #### [Lab: Creating a Data Access Layer using Entity Framework](lab-02-01)
 
-#### [Lab: Manipulating Data](lab-02-02)
+#### [Lab: Manipulating Data](Lab-02-02)
