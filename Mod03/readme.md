@@ -5,7 +5,7 @@
 #### [Lesson 2: Creating an ASP.NET Core Web API:Creating Your First ASP.NET Core Web API](Demofiles/01_FirstWebApi)
 
 
-#### Lesson 3: Consuming ASP.NET Core Web APIs
+#### Lesson 3: Consuming ASP.NET Core Web APIs:
 
 
 #### [Demonstration: Consuming Services by Using JavaScript](Demofiles/02_JavaScriptClient)
