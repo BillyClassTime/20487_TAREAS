@@ -1,4 +1,4 @@
-### [Module 2: Creating and Consuming ASP.NET Core Web APIs](Mod03)
+### [Module 3: Creating and Consuming ASP.NET Core Web APIs](Mod03)
 
 ### [Module 2: Querying and Manipulating Data Using Entity Framework](Mod02)
 
