@@ -51,8 +51,14 @@ Mod04/DemoCode/01_ErrorHandlingMiddleware/BlueYonder.Flights.DAL/bin/
 Mod04/DemoCode/01_ErrorHandlingMiddleware/BlueYonder.Flights.DAL/obj/
 Mod04/DemoCode/01_ErrorHandlingMiddleware/BlueYonder.Flights.Service/bin/
 Mod04/DemoCode/01_ErrorHandlingMiddleware/BlueYonder.Flights.Service/obj/
-Mod04/DemoCode/02_AsynchronousActions/
+Mod04/DemoCode/02_AsynchronousActions/BlueYonder.Flights.Client/bin/
+Mod04/DemoCode/02_AsynchronousActions/BlueYonder.Flights.Service/bin/
+Mod04/DemoCode/02_AsynchronousActions/BlueYonder.Flights.DAL/bin/
+Mod04/DemoCode/02_AsynchronousActions/BlueYonder.Flights.Client/obj/
+Mod04/DemoCode/02_AsynchronousActions/BlueYonder.Flights.Service/obj/
+Mod04/DemoCode/02_AsynchronousActions/BlueYonder.Flights.DAL/obj/
 Mod04/DemoCode/04_DependencyInjection/
 Mod04/DemoCode/03_CustomFiltersAndFormatters/
+
 
 

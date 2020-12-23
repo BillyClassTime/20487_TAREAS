@@ -1,4 +1,4 @@
-## [Module 4: Extending ASP.NET Core HTTP services](Mod04)
+## Module 4: Extending ASP.NET Core HTTP services
 
 ### Demos 
 
