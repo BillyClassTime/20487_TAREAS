@@ -1,0 +1,6 @@
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\bin\Release\netcoreapp2.1\publish\appsettings.Development.json
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\bin\Release\netcoreapp2.1\publish\appsettings.json
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\bin\Release\netcoreapp2.1\publish\BlueYonder.Flights.dll
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\bin\Release\netcoreapp2.1\publish\BlueYonder.Flights.runtimeconfig.json
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\bin\Release\netcoreapp2.1\publish\BlueYonder.Flights.pdb
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\bin\Release\netcoreapp2.1\publish\BlueYonder.Flights.deps.json

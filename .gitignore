@@ -1,4 +1,13 @@
-Mod01/
+
+Mod03/DemoFiles/07_HostingISSAndISSExpress/
+Mod03/LabFiles
+Mod04/DemoCode/04_DependencyInjection/
+Mod04/DemoCode/03_CustomFiltersAndFormatters/
+Mod05/
+Mod06/
+
+
+
 
 Mod02/demo-02-02/Starter/obj/
 Mod02/demo-02-02/Starter/bin/
@@ -57,8 +66,11 @@ Mod04/DemoCode/02_AsynchronousActions/BlueYonder.Flights.DAL/bin/
 Mod04/DemoCode/02_AsynchronousActions/BlueYonder.Flights.Client/obj/
 Mod04/DemoCode/02_AsynchronousActions/BlueYonder.Flights.Service/obj/
 Mod04/DemoCode/02_AsynchronousActions/BlueYonder.Flights.DAL/obj/
-Mod04/DemoCode/04_DependencyInjection/
-Mod04/DemoCode/03_CustomFiltersAndFormatters/
 
 
 
+
+Mod01/mod-01-04/obj/
+Mod01/mod-01-04/bin/
+Mod01/laboratorio/obj/
+Mod01/laboratorio/bin/

@@ -1,0 +1,17 @@
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\bin\Release\netcoreapp2.1\appsettings.json
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\bin\Release\netcoreapp2.1\BlueYonder.Flights.deps.json
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\bin\Release\netcoreapp2.1\BlueYonder.Flights.runtimeconfig.json
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\bin\Release\netcoreapp2.1\BlueYonder.Flights.runtimeconfig.dev.json
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\bin\Release\netcoreapp2.1\BlueYonder.Flights.dll
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\bin\Release\netcoreapp2.1\BlueYonder.Flights.pdb
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\obj\Release\netcoreapp2.1\BlueYonder.Flights.csprojAssemblyReference.cache
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\obj\Release\netcoreapp2.1\BlueYonder.Flights.AssemblyInfoInputs.cache
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\obj\Release\netcoreapp2.1\BlueYonder.Flights.AssemblyInfo.cs
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\obj\Release\netcoreapp2.1\BlueYonder.Flights.csproj.CoreCompileInputs.cache
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\obj\Release\netcoreapp2.1\BlueYonder.Flights.RazorAssemblyInfo.cache
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\obj\Release\netcoreapp2.1\BlueYonder.Flights.RazorAssemblyInfo.cs
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\obj\Release\netcoreapp2.1\BlueYonder.Flights.RazorTargetAssemblyInfo.cache
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\obj\Release\netcoreapp2.1\BlueYonder.Flights.dll
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\obj\Release\netcoreapp2.1\BlueYonder.Flights.pdb
+D:\20_610\20487\20487_TAREAS\Mod01\laboratorio\BlueYonder.Flights\obj\Release\netcoreapp2.1\BlueYonder.Flights.genruntimeconfig.cache
