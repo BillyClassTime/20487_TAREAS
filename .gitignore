@@ -1,6 +1,6 @@
 
 Mod03/DemoFiles/07_HostingISSAndISSExpress/
-Mod03/LabFiles
+
 Mod04/DemoCode/04_DependencyInjection/
 Mod04/DemoCode/03_CustomFiltersAndFormatters/
 Mod05/
@@ -74,3 +74,10 @@ Mod01/mod-01-04/obj/
 Mod01/mod-01-04/bin/
 Mod01/laboratorio/obj/
 Mod01/laboratorio/bin/
+Mod03/LabFiles/Starter/BlueYonder.Hotels.Client/bin/
+Mod03/LabFiles/Starter/BlueYonder.Hotels.Client/obj/
+Mod03/LabFiles/Starter/DAL/obj/
+Mod03/LabFiles/Starter/DAL/bin/
+Mod03/LabFiles/Starter/BlueYonder.Hotels.Service/obj/
+Mod03/LabFiles/Starter/BlueYonder.Hotels.Service/bin
+
