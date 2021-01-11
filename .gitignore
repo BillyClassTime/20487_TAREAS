@@ -1,5 +1,5 @@
 
-Mod03/DemoFiles/07_HostingISSAndISSExpress/
+
 
 Mod04/DemoCode/04_DependencyInjection/
 Mod04/DemoCode/03_CustomFiltersAndFormatters/
@@ -81,3 +81,7 @@ Mod03/LabFiles/Starter/DAL/bin/
 Mod03/LabFiles/Starter/BlueYonder.Hotels.Service/obj/
 Mod03/LabFiles/Starter/BlueYonder.Hotels.Service/bin
 
+Mod03/DemoFiles/07_HostingISSAndISSExpress/07_HostingISSAndISSExpress/HostingISSAndISSExpress.Host/bin/
+Mod03/DemoFiles/07_HostingISSAndISSExpress/07_HostingISSAndISSExpress/HostingISSAndISSExpress.Host/obj/
+Mod03/DemoFiles/07_HostingISSAndISSExpress/07_HostingISSAndISSExpress/pubs/
+Mod03/DemoFiles/07_HostingISSAndISSExpress/07_HostingISSAndISSExpress/pubs - copia/
