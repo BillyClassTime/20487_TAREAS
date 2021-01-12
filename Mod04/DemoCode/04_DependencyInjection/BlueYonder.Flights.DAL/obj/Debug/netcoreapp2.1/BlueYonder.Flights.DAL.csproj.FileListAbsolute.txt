@@ -1,0 +1,9 @@
+D:\20_610\20487\20487_TAREAS\Mod04\DemoCode\04_DependencyInjection\BlueYonder.Flights.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.deps.json
+D:\20_610\20487\20487_TAREAS\Mod04\DemoCode\04_DependencyInjection\BlueYonder.Flights.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.dll
+D:\20_610\20487\20487_TAREAS\Mod04\DemoCode\04_DependencyInjection\BlueYonder.Flights.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.pdb
+D:\20_610\20487\20487_TAREAS\Mod04\DemoCode\04_DependencyInjection\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.csprojAssemblyReference.cache
+D:\20_610\20487\20487_TAREAS\Mod04\DemoCode\04_DependencyInjection\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.AssemblyInfoInputs.cache
+D:\20_610\20487\20487_TAREAS\Mod04\DemoCode\04_DependencyInjection\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.AssemblyInfo.cs
+D:\20_610\20487\20487_TAREAS\Mod04\DemoCode\04_DependencyInjection\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.csproj.CoreCompileInputs.cache
+D:\20_610\20487\20487_TAREAS\Mod04\DemoCode\04_DependencyInjection\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.dll
+D:\20_610\20487\20487_TAREAS\Mod04\DemoCode\04_DependencyInjection\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.pdb

@@ -8,8 +8,11 @@
 
 #### [Demonstration: Creating Asynchronous Actions](DemoCode/02_AsynchronousActions)
 
-#### [Creating Custom Filters and Formatters](DemoCode/03_CustomFiltersAndFormatters) PENDIENTE
+#### [Creating Custom Filters and Formatters](DemoCode/03_CustomFiltersAndFormatters) 
 
-#### [Lesson 3: Injecting Dependencies into Controllers:Demonstration: Using Dependency Injection with Controllers](DemoCode/04_DependencyInjection)  PENDIENTE
+#### [Lesson 3: Injecting Dependencies into Controllers:Demonstration: Using Dependency Injection with Controllers](DemoCode/04_DependencyInjection)  
 
+### Laboratorio 
  
+ 
+### [Lab: Customizing the ASP.NET Core Pipeline](LabFiles/Lab1/Starter)
