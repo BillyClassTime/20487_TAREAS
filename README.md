@@ -3,7 +3,7 @@
 
 ### [Module 7: Implementing data storage in Azure](Mod07)  pendiente laboratorio y demo 1
 
-### Module 6: Deploying and Managing Services  pendiente(Mod06) pendiente laboratorio
+### [Module 6: Deploying and Managing Services](Mod06) pendiente laboratorio
 
 ### [Module 5: Hosting Services On-Premises and in Azure](Mod05) completo
 
