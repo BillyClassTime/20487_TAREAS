@@ -13,7 +13,7 @@
 
 ###  Lesson 3: Continuous Delivery with Microsoft Visual Studio Team Services
 
-#### [Demonstration: Continuous Delivery to Websites with Git and Visual Studio Team Services](DemoFiles/MyApp)
+#### [Demonstration: Continuous Delivery to Websites with Git and Visual Studio Team Services](DemoFiles/demo0603/MyApp)
 
 
 ###  Lesson 4: Deploying to Staging and Production Environments
