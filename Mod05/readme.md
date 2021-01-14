@@ -28,6 +28,6 @@
 
 #### [Host an ASP.NET Core Web API in an Azure Web App](Labfiles/Exercise2)
 
-#### [Host an ASP.NET Core service in Azure Container Instances](Labfiles/Exercise2)
+#### [Host an ASP.NET Core service in Azure Container Instances](Labfiles/Exercise3)
 
-#### [Implement an Azure Function](Labfiles/Exercise3)
+#### [Implement an Azure Function](Labfiles/Exercise4)
