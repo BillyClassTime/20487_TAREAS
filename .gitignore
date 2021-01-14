@@ -3,7 +3,7 @@
 
 
 
-Mod05/
+
 Mod06/
 
 
@@ -95,3 +95,23 @@ Mod04/DemoCode/04_DependencyInjection/Starter/BlueYonder.Flights.DAL/obj/
 Mod04/DemoCode/04_DependencyInjection/Starter/BlueYonder.Flights.DAL/bin/
 Mod04/DemoCode/03_CustomFiltersAndFormatters/CustomFiltersAndFormatters/obj/
 Mod04/DemoCode/03_CustomFiltersAndFormatters/CustomFiltersAndFormatters/bin/
+Mod05/DemoFiles/01_HostInWindowsService/BlueYonder.Hotels.Service/bin/
+Mod05/DemoFiles/01_HostInWindowsService/BlueYonder.Hotels.Service/obj/
+Mod05/DemoFiles/01_HostInWindowsService/BlueYonder.Hotels.Service/publish/
+Mod05/DemoFiles/01_HostInWindowsService/publish/
+Mod05/DemoFiles/01HostInWindowsService/BlueYonder.Hotels.Service/bin/
+Mod05/DemoFiles/01HostInWindowsService/BlueYonder.Hotels.Service/obj/
+Mod05/DemoFiles/02_HostInIIS/BlueYonder.Hotels.Service/bin/
+Mod05/DemoFiles/02_HostInIIS/BlueYonder.Hotels.Service/obj/
+Mod05/DemoFiles/03_HostInAzure/BlueYonder.Hotels/obj/
+Mod05/DemoFiles/03_HostInAzure/BlueYonder.Hotels/bin/
+Mod05/DemoFiles/04_Host_In_Docker/Host_In_Docker/bin/
+Mod05/DemoFiles/04_Host_In_Docker/Host_In_Docker/obj/
+Mod05/Labfiles/Exercise1/Starter/BlueYonder.Flights.Service/bin/
+Mod05/Labfiles/Exercise1/Starter/BlueYonder.Flights.Service/obj/
+Mod05/Labfiles/Exercise2/Host In Azure/BlueYonder.Flights.Service/bin/
+Mod05/Labfiles/Exercise2/Host In Azure/BlueYonder.Flights.Service/obj/
+Mod05/Labfiles/Exercise2/Host In Azure/BlueYonder.Flights.Service/bin/
+Mod05/Labfiles/Exercise2/Host In Azure/BlueYonder.Flights.Service/obj/
+Mod05/Labfiles/Exercise3/Starter/BlueYonder.Hotels.Service/BlueYonder.Hotels.Service/bin/
+Mod05/Labfiles/Exercise3/Starter/BlueYonder.Hotels.Service/BlueYonder.Hotels.Service/obj/
