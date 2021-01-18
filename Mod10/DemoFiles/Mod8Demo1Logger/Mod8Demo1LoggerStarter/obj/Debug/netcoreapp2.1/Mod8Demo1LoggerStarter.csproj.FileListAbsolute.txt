@@ -1,0 +1,17 @@
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\bin\Debug\netcoreapp2.1\appsettings.json
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\bin\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.deps.json
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\bin\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.runtimeconfig.json
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\bin\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.runtimeconfig.dev.json
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\bin\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.dll
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\bin\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.pdb
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\obj\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.csprojAssemblyReference.cache
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\obj\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.AssemblyInfoInputs.cache
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\obj\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.AssemblyInfo.cs
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\obj\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.csproj.CoreCompileInputs.cache
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\obj\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.RazorAssemblyInfo.cache
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\obj\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.RazorAssemblyInfo.cs
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\obj\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.RazorTargetAssemblyInfo.cache
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\obj\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.dll
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\obj\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.pdb
+C:\20487_TAREAS\Mod08\DemoFiles\Mod8Demo1Logger\Mod8Demo1LoggerStarter\obj\Debug\netcoreapp2.1\Mod8Demo1LoggerStarter.genruntimeconfig.cache
