@@ -26,8 +26,3 @@
 
 ##### [Demonstration: Using Microsoft Azure Redis Cache for Caching Data](DemoFiles/Mod7Demo6Redis)   
 
-
-
-
-
-### Laboratorios (PENDIENTE)
