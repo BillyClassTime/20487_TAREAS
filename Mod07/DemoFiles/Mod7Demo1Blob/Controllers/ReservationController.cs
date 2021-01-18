@@ -21,6 +21,7 @@ namespace BlueYonder.Hotels.Service.Controllers
             _storageAccount = CloudStorageAccount.Parse(configuration.GetConnectionString("BloggingDatabase"));
             CloudBlobClient blogClient = _storageAccount.CreateCloudBlobClient();
             _container = blogClient.GetContainerReference("vouchers");
+           
         }
 
        
@@ -35,7 +36,7 @@ namespace BlueYonder.Hotels.Service.Controllers
 
             }catch(Exception ex)
             {
-                return NotFound();
+                return "NotFound()";
             }
         }
 

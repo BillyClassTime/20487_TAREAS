@@ -5,7 +5,7 @@
 
 #### Lesson 2: Accessing Data in Azure Storage. 
 
-##### [Demonstration: Accessing Microsoft Azure Blob Storage from a Microsoft ASP.NET Core Application](DemoFiles/Mod7Demo1Blob) PENDIENTE
+##### [Demonstration: Accessing Microsoft Azure Blob Storage from a Microsoft ASP.NET Core Application](DemoFiles/Mod7Demo1Blob) 
 
 #### Lesson 3: Working with Structured Data in Azure. 
 
